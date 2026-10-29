@@ -1,0 +1,7 @@
+aiogram>=3.4
+telethon
+aiosqlite
+python-dotenv
+aiohttp
+qrcode
+Pillow
